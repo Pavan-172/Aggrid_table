@@ -1,0 +1,11 @@
+.cell-empty{
+    background-color: red;
+}
+
+.cell-char{
+    background-color:yellow;
+}
+.btn{
+    margin-left: 30px;
+    margin-top: 5px;
+}
